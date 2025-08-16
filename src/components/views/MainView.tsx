@@ -26,7 +26,7 @@ export const MainView = () => {
                         <option value={""}>
                             Sin covertura
                         </option>
-                        <option value={"public/CoverBeish.png"}>
+                        <option value={`${import.meta.env.BASE_URL}/CoverBeish.png`}>
                             Beige
                         </option>
                         <option value={"public/CoverMarron.png"}>
