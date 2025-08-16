@@ -29,13 +29,13 @@ export const MainView = () => {
                         <option value={`/MakeYourMuffin/CoverBeish.png`}>
                             Beige
                         </option>
-                        <option value={"/MakeYourMuffin/CoverMarron.png"}>
+                        <option value={`/MakeYourMuffin/CoverMarron.png`}>
                             Marron
                         </option>
-                        <option value={"/MakeYourMuffin/CoverRojoyAzul.png"}>
+                        <option value={`/MakeYourMuffin/CoverRojoyAzul.png`}>
                             Rojo Y Azul
                         </option>
-                        <option value={"/MakeYourMuffin/CoverMarcille.png"}>
+                        <option value={`/MakeYourMuffin/CoverMarcille.png`}>
                             Marcille
                         </option>
                     </select>
@@ -52,13 +52,13 @@ export const MainView = () => {
                         <option value={""}>
                             Sin Masa
                         </option>
-                        <option value={"/MakeYourMuffin/MuffinVainilla.png"}>
+                        <option value={`/MakeYourMuffin/MuffinVainilla.png`}>
                             Vainilla
                         </option>
-                        <option value={"/MakeYourMuffin/MuffinChocolate.png"}>
+                        <option value={`/MakeYourMuffin/MuffinChocolate.png`}>
                             Chocolate
                         </option>
-                        <option value={"/MakeYourMuffin/MuffinLimon.png"}>
+                        <option value={`/MakeYourMuffin/MuffinLimon.png`}>
                             Limon
                         </option>
                     </select>
@@ -75,16 +75,16 @@ export const MainView = () => {
                         <option value={""}>
                             Sin extra
                         </option>
-                        <option value={"/MakeYourMuffin/ExtraChipsChocolateNegro.png"}>
+                        <option value={`/MakeYourMuffin/ExtraChipsChocolateNegro.png`}>
                             Chips de Chocolate
                         </option>
-                        <option value={"/MakeYourMuffin/ExtraChipsChocolateBlanco.png"}>
+                        <option value={`/MakeYourMuffin/ExtraChipsChocolateBlanco.png`}>
                             Chips Chocolate Blanco
                         </option>
-                        <option value={"/MakeYourMuffin/ExtraFrutosRojos.png"}>
+                        <option value={`/MakeYourMuffin/ExtraFrutosRojos.png`}>
                             Frutos Rojos
                         </option>
-                        <option value={"/MakeYourMuffin/ExtraArandanos.png"}>
+                        <option value={`/MakeYourMuffin/ExtraArandanos.png`}>
                             Arandanos
                         </option>
                     </select>
@@ -101,16 +101,16 @@ export const MainView = () => {
                         <option value={""}>
                             Sin topping
                         </option>
-                        <option value={"/MakeYourMuffin/ToppingChocolateConNuez.png"}>
+                        <option value={`/MakeYourMuffin/ToppingChocolateConNuez.png`}>
                             Chocolate con Nuez
                         </option>
-                        <option value={"/MakeYourMuffin/ToppingGlaceado.png"}>
+                        <option value={`/MakeYourMuffin/ToppingGlaceado.png`}>
                             Glaceado de limon
                         </option>
-                        <option value={"/MakeYourMuffin/ToppingCrema.png"}>
+                        <option value={`/MakeYourMuffin/ToppingCrema.png`}>
                             Crema
                         </option>
-                        <option value={"/MakeYourMuffin/ToppingOreo.png"}>
+                        <option value={`/MakeYourMuffin/ToppingOreo.png`}>
                             Oreo con dulce de Leche
                         </option>
                     </select>
