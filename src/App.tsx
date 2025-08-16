@@ -1,9 +1,10 @@
+import { MainView } from "./components/views/mainView"
 
 
 function App() {
 
   return (
-    <div>Hola mundo</div>
+    <MainView/>
   )
 }
 
